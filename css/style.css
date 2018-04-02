@@ -48,6 +48,9 @@ h2{
 	border-color:#ab966f;
 	padding:10px;
 }
+.link h2{
+	margin: 0;
+}
 
 .page{
 	width:100%;
@@ -90,3 +93,8 @@ td, th {
 
 tr:nth-child(even) {
 }
+
+#mainpage img{
+	margin: -200px 0px 0 0 0;
+}
+
