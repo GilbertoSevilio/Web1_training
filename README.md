@@ -1,1 +1,1 @@
-# Web1_training
+# made for fun and training, based on darksouls.wiki.fextralife.com
